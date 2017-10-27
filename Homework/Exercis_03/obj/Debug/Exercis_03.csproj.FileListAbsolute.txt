@@ -1,0 +1,6 @@
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework\Exercis_01\Exercis_03\obj\Debug\Exercis_03.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework\Exercis_01\Exercis_03\bin\Debug\Exercis_03.exe.config
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework\Exercis_01\Exercis_03\bin\Debug\Exercis_03.exe
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework\Exercis_01\Exercis_03\bin\Debug\Exercis_03.pdb
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework\Exercis_01\Exercis_03\obj\Debug\Exercis_03.exe
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework\Exercis_01\Exercis_03\obj\Debug\Exercis_03.pdb
