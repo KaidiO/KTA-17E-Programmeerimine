@@ -4,3 +4,9 @@ C:\Users\opilane\Desktop\Kaidi\Exercises\Exercises\6by6MultiplicationTable\bin\D
 C:\Users\opilane\Desktop\Kaidi\Exercises\Exercises\6by6MultiplicationTable\obj\Debug\6by6MultiplicationTable.csprojResolveAssemblyReference.cache
 C:\Users\opilane\Desktop\Kaidi\Exercises\Exercises\6by6MultiplicationTable\obj\Debug\6by6MultiplicationTable.exe
 C:\Users\opilane\Desktop\Kaidi\Exercises\Exercises\6by6MultiplicationTable\obj\Debug\6by6MultiplicationTable.pdb
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\6by6MultiplicationTable\bin\Debug\6by6MultiplicationTable.exe.config
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\6by6MultiplicationTable\bin\Debug\6by6MultiplicationTable.exe
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\6by6MultiplicationTable\bin\Debug\6by6MultiplicationTable.pdb
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\6by6MultiplicationTable\obj\Debug\6by6MultiplicationTable.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\6by6MultiplicationTable\obj\Debug\6by6MultiplicationTable.exe
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\6by6MultiplicationTable\obj\Debug\6by6MultiplicationTable.pdb

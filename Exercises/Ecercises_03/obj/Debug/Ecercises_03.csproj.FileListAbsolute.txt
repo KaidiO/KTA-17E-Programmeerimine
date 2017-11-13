@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\Ecercises_03\bin\Debug\Ecercises_03.exe.config
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\Ecercises_03\bin\Debug\Ecercises_03.exe
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\Ecercises_03\bin\Debug\Ecercises_03.pdb
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\Ecercises_03\obj\Debug\Ecercises_03.exe
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\Ecercises_03\obj\Debug\Ecercises_03.pdb
+C:\Users\opilane\Desktop\kaidi-uus\KTA-17E-Programmeerimine\Exercises\Ecercises_03\obj\Debug\Ecercises_03.csprojResolveAssemblyReference.cache
