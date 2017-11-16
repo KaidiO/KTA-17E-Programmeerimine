@@ -1,0 +1,7 @@
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\bin\Debug\Kodutöö.exe.config
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\bin\Debug\Kodutöö.exe
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\bin\Debug\Kodutöö.pdb
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\obj\Debug\Kodutöö.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\obj\Debug\Kodutöö.exe
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\obj\Debug\Kodutöö.pdb
+C:\Users\kasutaja\Desktop\Visual Studio\Exercises\Homework_03 Parandus\Kodutöö\obj\Debug\Kodutöö.csprojResolveAssemblyReference.cache
