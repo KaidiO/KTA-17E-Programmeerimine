@@ -1,0 +1,6 @@
+C:\Users\kaidi.oago\Desktop\GitHub\KTA-17E-Programmeerimine\Kaidi\04_Exercises (tunnitöö)\Exercises_01\01_Demo\bin\Debug\01_Demo.exe.config
+C:\Users\kaidi.oago\Desktop\GitHub\KTA-17E-Programmeerimine\Kaidi\04_Exercises (tunnitöö)\Exercises_01\01_Demo\bin\Debug\01_Demo.exe
+C:\Users\kaidi.oago\Desktop\GitHub\KTA-17E-Programmeerimine\Kaidi\04_Exercises (tunnitöö)\Exercises_01\01_Demo\bin\Debug\01_Demo.pdb
+C:\Users\kaidi.oago\Desktop\GitHub\KTA-17E-Programmeerimine\Kaidi\04_Exercises (tunnitöö)\Exercises_01\01_Demo\obj\Debug\01_Demo.csprojResolveAssemblyReference.cache
+C:\Users\kaidi.oago\Desktop\GitHub\KTA-17E-Programmeerimine\Kaidi\04_Exercises (tunnitöö)\Exercises_01\01_Demo\obj\Debug\01_Demo.exe
+C:\Users\kaidi.oago\Desktop\GitHub\KTA-17E-Programmeerimine\Kaidi\04_Exercises (tunnitöö)\Exercises_01\01_Demo\obj\Debug\01_Demo.pdb
