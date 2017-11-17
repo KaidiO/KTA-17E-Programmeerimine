@@ -13,7 +13,8 @@ namespace _01_Demo
             Console.WriteLine("Kirjuta siia midagi, mis on sul mõttes hetkel!");
             Console.ReadLine();
 
-            Console.WriteLine("Eks ole hea ennast väljendada :)");
+            Console.WriteLine("Eks ole hea ennast väljendada, mis:)");
+            Console.WriteLine();
 
             Console.ReadKey();
 
