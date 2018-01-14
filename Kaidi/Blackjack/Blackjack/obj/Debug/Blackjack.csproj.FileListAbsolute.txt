@@ -1,0 +1,7 @@
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Õige Blackjack\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
