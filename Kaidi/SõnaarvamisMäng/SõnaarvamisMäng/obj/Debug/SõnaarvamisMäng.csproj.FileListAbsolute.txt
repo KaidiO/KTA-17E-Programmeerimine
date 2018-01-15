@@ -1,0 +1,7 @@
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\bin\Debug\SõnaarvamisMäng.exe.config
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\bin\Debug\SõnaarvamisMäng.exe
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\bin\Debug\SõnaarvamisMäng.pdb
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\obj\Debug\SõnaarvamisMäng.csprojResolveAssemblyReference.cache
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\obj\Debug\SõnaarvamisMäng.csproj.CoreCompileInputs.cache
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\obj\Debug\SõnaarvamisMäng.exe
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\SõnaarvamisMäng\SõnaarvamisMäng\SõnaarvamisMäng\obj\Debug\SõnaarvamisMäng.pdb
