@@ -1,0 +1,7 @@
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\bin\Debug\Valikud.exe.config
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\bin\Debug\Valikud.exe
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\bin\Debug\Valikud.pdb
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\obj\Debug\Valikud.csprojResolveAssemblyReference.cache
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\obj\Debug\Valikud.csproj.CoreCompileInputs.cache
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\obj\Debug\Valikud.exe
+C:\Users\kaidi.oago\Desktop\Programeerimine C#\Valikud\Valikud\obj\Debug\Valikud.pdb
