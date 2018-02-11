@@ -1,0 +1,6 @@
+C:\Users\Kaidi\Desktop\Kool\Hangman_game\Hangman_game\bin\Debug\Hangman_game.exe.config
+C:\Users\Kaidi\Desktop\Kool\Hangman_game\Hangman_game\bin\Debug\Hangman_game.exe
+C:\Users\Kaidi\Desktop\Kool\Hangman_game\Hangman_game\bin\Debug\Hangman_game.pdb
+C:\Users\Kaidi\Desktop\Kool\Hangman_game\Hangman_game\obj\Debug\Hangman_game.csproj.CoreCompileInputs.cache
+C:\Users\Kaidi\Desktop\Kool\Hangman_game\Hangman_game\obj\Debug\Hangman_game.exe
+C:\Users\Kaidi\Desktop\Kool\Hangman_game\Hangman_game\obj\Debug\Hangman_game.pdb
