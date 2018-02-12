@@ -27,10 +27,10 @@ namespace WordMixer
             String[] sõna = Console.ReadLine().Split(' ');
             foreach (String part in sõna)
             {
-                char a = part[1];
-                char b = part[part.Length-2];
+                char a = part[0];
+                char b = part[part.Length-1];
                 string str = part.Substring(a, part.Length -2);
-                Console.Write(" {0}{1}{2} ",a ,Meetod(str),b);
+                Console.Write("{0}{1}{2} ",a ,Meetod(str),b);
             }
 
             Console.ReadLine();
