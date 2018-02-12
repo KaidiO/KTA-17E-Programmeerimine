@@ -1,0 +1,7 @@
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\bin\Debug\WordMixer.exe.config
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\bin\Debug\WordMixer.exe
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\bin\Debug\WordMixer.pdb
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\obj\Debug\WordMixer.csprojResolveAssemblyReference.cache
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\obj\Debug\WordMixer.csproj.CoreCompileInputs.cache
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\obj\Debug\WordMixer.exe
+C:\Users\kaidi.oago\Desktop\C#\WordMixer\WordMixer\obj\Debug\WordMixer.pdb
