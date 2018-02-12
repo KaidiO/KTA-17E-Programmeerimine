@@ -1,0 +1,7 @@
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojResolveAssemblyReference.cache
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\kaidi.oago\Desktop\C#\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
