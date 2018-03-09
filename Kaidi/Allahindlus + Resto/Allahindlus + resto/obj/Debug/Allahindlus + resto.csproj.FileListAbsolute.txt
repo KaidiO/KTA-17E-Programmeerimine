@@ -1,0 +1,7 @@
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\bin\Debug\Allahindlus + resto.exe.config
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\bin\Debug\Allahindlus + resto.exe
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\bin\Debug\Allahindlus + resto.pdb
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\obj\Debug\Allahindlus + resto.csproj.CoreCompileInputs.cache
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\obj\Debug\Allahindlus + resto.exe
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\obj\Debug\Allahindlus + resto.pdb
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus + resto\obj\Debug\Allahindlus + resto.csprojResolveAssemblyReference.cache

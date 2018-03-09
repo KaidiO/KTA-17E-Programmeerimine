@@ -1,0 +1,7 @@
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\bin\Debug\Restoran.exe
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\bin\Debug\Restoran.pdb
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\obj\Debug\Restoran.exe
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\obj\Debug\Restoran.pdb
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Restoran\obj\Debug\Restoran.csprojResolveAssemblyReference.cache

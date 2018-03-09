@@ -1,0 +1,7 @@
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\bin\Debug\Allahindlus.exe.config
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\bin\Debug\Allahindlus.exe
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\bin\Debug\Allahindlus.pdb
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\obj\Debug\Allahindlus.csprojResolveAssemblyReference.cache
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\obj\Debug\Allahindlus.csproj.CoreCompileInputs.cache
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\obj\Debug\Allahindlus.exe
+C:\Users\Kaidi\Desktop\Kool\C#\Allahindlus\Allahindlus\obj\Debug\Allahindlus.pdb
