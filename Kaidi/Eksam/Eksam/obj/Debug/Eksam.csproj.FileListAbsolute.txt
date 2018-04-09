@@ -1,0 +1,6 @@
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksam\bin\Debug\Eksam.exe.config
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksam\bin\Debug\Eksam.exe
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksam\bin\Debug\Eksam.pdb
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksam\obj\Debug\Eksam.csprojResolveAssemblyReference.cache
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksam\obj\Debug\Eksam.exe
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksam\obj\Debug\Eksam.pdb

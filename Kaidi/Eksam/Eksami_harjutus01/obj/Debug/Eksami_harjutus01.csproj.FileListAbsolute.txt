@@ -1,0 +1,5 @@
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus01\bin\Debug\Eksami_harjutus01.exe.config
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus01\bin\Debug\Eksami_harjutus01.exe
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus01\bin\Debug\Eksami_harjutus01.pdb
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus01\obj\Debug\Eksami_harjutus01.exe
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus01\obj\Debug\Eksami_harjutus01.pdb

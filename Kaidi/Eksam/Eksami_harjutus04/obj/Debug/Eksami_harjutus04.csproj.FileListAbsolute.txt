@@ -1,0 +1,6 @@
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus04\bin\Debug\Eksami_harjutus04.exe.config
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus04\bin\Debug\Eksami_harjutus04.exe
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus04\bin\Debug\Eksami_harjutus04.pdb
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus04\obj\Debug\Eksami_harjutus04.exe
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus04\obj\Debug\Eksami_harjutus04.pdb
+C:\Users\kaidi.oago\Desktop\Kaidi\Eksam\Eksami_harjutus04\obj\Debug\Eksami_harjutus04.csprojResolveAssemblyReference.cache
