@@ -1,0 +1,6 @@
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Eksami harjutused\Eksami_harjutus01\Eksami_harjutus3\bin\Debug\Eksami_harjutus3.exe.config
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Eksami harjutused\Eksami_harjutus01\Eksami_harjutus3\bin\Debug\Eksami_harjutus3.exe
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Eksami harjutused\Eksami_harjutus01\Eksami_harjutus3\bin\Debug\Eksami_harjutus3.pdb
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Eksami harjutused\Eksami_harjutus01\Eksami_harjutus3\obj\Debug\Eksami_harjutus3.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Eksami harjutused\Eksami_harjutus01\Eksami_harjutus3\obj\Debug\Eksami_harjutus3.exe
+C:\Users\kasutaja\Desktop\Kool\Programeerimine C#\Eksami harjutused\Eksami_harjutus01\Eksami_harjutus3\obj\Debug\Eksami_harjutus3.pdb
