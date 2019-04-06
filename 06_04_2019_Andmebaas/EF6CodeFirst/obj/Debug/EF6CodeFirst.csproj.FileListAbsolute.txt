@@ -1,0 +1,36 @@
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csprojAssemblyReference.cache
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csproj.CoreCompileInputs.cache
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.exe.config
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.exe
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.pdb
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.dll
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.xml
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csproj.CopyComplete
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.exe
+c:\users\vadim.veeremaa\documents\visual studio 2017\Projects\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.pdb
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.exe.config
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.exe
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.pdb
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csprojAssemblyReference.cache
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csproj.CopyComplete
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.exe
+C:\Users\vadim.veeremaa\source\repos\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.pdb
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.exe.config
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.exe
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EF6CodeFirst.pdb
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csprojAssemblyReference.cache
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.csproj.CopyComplete
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.exe
+C:\Users\opilane\Desktop\Visual\EF6CodeFirst\EF6CodeFirst\obj\Debug\EF6CodeFirst.pdb
